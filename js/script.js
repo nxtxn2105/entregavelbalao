@@ -13,7 +13,7 @@ window.addEventListener("DOMContentLoaded", () => {
 // =========================================================================
 // CONFIGURAÇÃO DO LINK DE UPGRADE (PLANO BÁSICO -> PLANO COMPLETO)
 // =========================================================================
-const UPGRADE_CHECKOUT_URL = "https://pay.lowify.com.br/checkout.php?product_id=UPGRADE_COMPLETO";
+const UPGRADE_CHECKOUT_URL = "https://pay.lowify.com.br/checkout?product_id=m3Ujyo";
 
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll('[data-upgrade-link]').forEach(function(el) {
